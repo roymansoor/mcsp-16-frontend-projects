@@ -1,0 +1,79 @@
+[
+    {
+    "githubName": "fcastro958",
+    "url": "https://fcastro958.github.io/front-end-project/",
+    "screenshot": "/images/fcastro958.png",
+    "name": "random zoo animal data",
+    "description": "random zoo animal facts"
+    },
+    {
+    "githubName": "jordannapoleon",
+    "url": "https://jordannapoleon.github.io/FrontEndProject/",
+    "screenshot": "/images/jordannapoleon.png",
+    "name": "",
+    "description": ""
+    },
+    {
+    "githubName": "vitavelmors",
+    "url": "https://vitavelmors.github.io/frontend-project/",
+    "screenshot": "/images/vitavelmors.png",
+    "name": "",
+    "description": ""
+    },
+    {
+    "githubName": "ghribik",
+    "url": "https://ghribik.github.io/frontEndProject/ ",
+    "screenshot": "/images/ghribik.png",
+    "name": "",
+    "description": ""
+    },
+    {
+    "githubName": "swartz-d",
+    "url": "https://swartz-d.github.io/front_end_project/",
+    "screenshot": "/images/swartz-d.png",
+    "name": "",
+    "description": "random zoo animal facts"
+    },
+    {
+    "githubName": "jnich52",
+    "url": "https://jnich52.github.io/First-Front-End-Project/",
+    "screenshot": "/images/jnich52.png",
+    "name": "",
+    "description": ""
+    },
+    {
+    "githubName": "lordprettyflacko",
+    "url": "https://lordprettyflacko.github.io/Weather-App/weather.html",
+    "screenshot": "/images/fcastro958.png",
+    "name": "",
+    "description": ""
+    },
+    {
+    "githubName": "huynguyen09196",
+    "url": "https://huynguyen09196.github.io/Front-end-project/",
+    "screenshot": "/images/huynguyen09196.png",
+    "name": "",
+    "description": ""
+    },
+    {
+      "githubName": "TheJaguyer",
+      "url": "https://thejaguyer.github.io/Weapon-Emporium/",
+      "screenshot": "/images/TheJaguyer.png",
+      "name": "Destiny Weapon Emporium",
+      "description": "A simple tool to search for and view Destiny items."
+    },
+    {
+    "githubName": "Travis-Henry",
+    "url": "https://travis-henry.github.io/front-end-project/",
+    "screenshot": "",
+    "name": "SpaceX Mission Viewer",
+    "description": "This webpage will allow you to view upcoming and past SpaceX missions"
+    },
+    {
+      "githubName": "SCP-714",
+      "url": "https://github.com/SCP-714/frontEndProject.git",
+      "screenshot": "",
+      "name": "Comedy Club",
+      "description": "Welcome to the Comedy Club fetches Joke from Joke API to the tell the user a funny joke on the homepage"
+    }
+    ]

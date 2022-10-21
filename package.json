@@ -1,0 +1,25 @@
+{
+  "name": "mcsp-16-frontend-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "scripts": {
+    "start": "node backend.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-hooper/mcsp-16-frontend-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-hooper/mcsp-16-frontend-projects/issues"
+  },
+  "homepage": "https://github.com/david-hooper/mcsp-16-frontend-projects#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "puppeteer": "^19.1.0"
+  }
+}
