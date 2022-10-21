@@ -1,6 +1,7 @@
 
 .container{
     display:flex;
+    flex-wrap: wrap;
 }
 .result-card{
     width: 300px;
